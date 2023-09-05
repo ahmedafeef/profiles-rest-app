@@ -1,0 +1,13 @@
+[   50.757141] e1000 0000:00:03.0 enp0s3: Reset adapter
+         Starting Update APT News...
+         Starting Update the local ESM caches...
+[[0;32m  OK  [0m] Started Update APT News.
+         Stopping User Manager for UID 1000...
+[[0;32m  OK  [0m] Stopped User Manager for UID 1000.
+[[0;32m  OK  [0m] Removed slice User Slice of vagrant.
+[[0;32m  OK  [0m] Started Update the local ESM caches.
+[[0;32m  OK  [0m] Created slice User Slice of vagrant.
+         Starting User Manager for UID 1000...
+[[0;32m  OK  [0m] Started Session 5 of user vagrant.
+[[0;32m  OK  [0m] Started User Manager for UID 1000.
+[[0;32m  OK  [0m] Started Daily apt upgrade and clean activities.
